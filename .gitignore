@@ -1,4 +1,7 @@
 /GNU ARM v10.3.1 - Default/
-.settings
+.settings/
 imported_project_report.html
-.pdm
+.pdm/
+autogen/.crc_config.crc
+.projectlinkstore
+.trash/
